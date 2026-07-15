@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30043678/README.md)
 # Labor Court Rulings Classification
 
 A Jupyter notebook that uses the Anthropic API (Claude) to classify Italian labor court rulings (*sentenze*) into 5 outcome categories, and compares model results against human-labeled ground truth.
